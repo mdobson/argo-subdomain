@@ -1,0 +1,11 @@
+{
+  "name": "argo-subdomain",
+  "version": "0.0.0",
+  "description": "Middleware for working with subdomains",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mdobs",
+  "license": "MIT"
+}
