@@ -1,6 +1,6 @@
 {
   "name": "argo-subdomain",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Middleware for working with subdomains",
   "main": "index.js",
   "scripts": {
