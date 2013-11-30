@@ -4,8 +4,24 @@
   "description": "Middleware for working with subdomains",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node_modules/.bin/mocha -R spec"
   },
   "author": "mdobs",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mdobson/argo-subdomain.git"
+  },
+  "keywords": [
+    "argo",
+    "subdomain"
+  ],
+  "bugs": {
+    "url": "https://github.com/mdobson/argo-subdomain/issues"
+  },
+  "homepage": "https://github.com/mdobson/argo-subdomain",
+  "devDependencies": {
+    "mocha": "~1.14.0",
+    "argo": "~0.4.7"
+  }
 }
